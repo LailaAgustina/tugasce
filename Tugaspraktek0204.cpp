@@ -12,4 +12,6 @@ int main(){
 	double BPR=JP*500;
 	cout<<"Biaya parket (Rp)	:"<<BPR<<endl;
 	int BPS=LR*20;
+	cout<<"Biaya pasang (Rp)	:"<<BPS<<endl;
+	double TB=BPR+BPS;
 }
